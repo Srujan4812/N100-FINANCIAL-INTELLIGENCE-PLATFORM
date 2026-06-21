@@ -1,0 +1,180 @@
+company_id,type,text,confidence_pct
+ABB,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ADANIENSOL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ADANIENT,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ADANIGREEN,CON,High leverage: Debt to Equity > 2.0x,90.0
+ADANIGREEN,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ADANIPORTS,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ADANIPOWER,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+AMBUJACEM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+APOLLOHOSP,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ASIANPAINT,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ATGL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+AXISBANK,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+AXISBANK,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+AXISBANK,PRO,Consistent EPS growth (> 12% CAGR),90.0
+AXISBANK,CON,High leverage: Debt to Equity > 2.0x,90.0
+AXISBANK,CON,Accrual risk: Cash from Operations is less than 50% of Net Profit,90.0
+AXISBANK,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+AXISBANK,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+AXISBANK,CON,Distress cash flow pattern: operating cash burn funded by financing inflows,90.0
+BAJAJ-AUTO,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BAJAJFINSV,CON,High leverage: Debt to Equity > 2.0x,90.0
+BAJAJFINSV,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BAJAJHLDNG,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BAJFINANCE,CON,High leverage: Debt to Equity > 2.0x,90.0
+BAJFINANCE,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BANKBARODA,PRO,Strong 5-year revenue growth (> 15% CAGR),90.0
+BANKBARODA,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+BANKBARODA,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+BANKBARODA,PRO,Consistent EPS growth (> 12% CAGR),90.0
+BANKBARODA,CON,High leverage: Debt to Equity > 2.0x,90.0
+BANKBARODA,CON,Accrual risk: Cash from Operations is less than 50% of Net Profit,90.0
+BANKBARODA,CON,Operating profit margins are on a declining trend YoY,90.0
+BANKBARODA,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+BANKBARODA,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BANKBARODA,CON,Distress cash flow pattern: operating cash burn funded by financing inflows,90.0
+BEL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BHARTIARTL,CON,High leverage: Debt to Equity > 2.0x,90.0
+BHARTIARTL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BHEL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BOSCHLTD,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BPCL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+BRITANNIA,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+CANBK,PRO,Strong 5-year revenue growth (> 15% CAGR),90.0
+CANBK,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+CANBK,PRO,Generous shareholder returns: returning cash to shareholders via dividends/buybacks,90.0
+CANBK,PRO,Consistent EPS growth (> 12% CAGR),90.0
+CANBK,CON,High leverage: Debt to Equity > 2.0x,90.0
+CANBK,CON,Operating profit margins are on a declining trend YoY,90.0
+CANBK,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+CANBK,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+CHOLAFIN,CON,High leverage: Debt to Equity > 2.0x,90.0
+CHOLAFIN,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+CIPLA,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+COALINDIA,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+DABUR,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+DIVISLAB,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+DLF,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+DMART,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+DRREDDY,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+EICHERMOT,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+GAIL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+GODREJCP,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+GRASIM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HAL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HAVELLS,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HCLTECH,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HDFCBANK,PRO,Strong 5-year revenue growth (> 15% CAGR),90.0
+HDFCBANK,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+HDFCBANK,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+HDFCBANK,PRO,Consistent EPS growth (> 12% CAGR),90.0
+HDFCBANK,CON,High leverage: Debt to Equity > 2.0x,90.0
+HDFCBANK,CON,"Poor interest coverage ratio (< 1.5x), potential debt servicing risk",90.0
+HDFCBANK,CON,Accrual risk: Cash from Operations is less than 50% of Net Profit,90.0
+HDFCBANK,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+HDFCBANK,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HDFCLIFE,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HEROMOTOCO,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HINDALCO,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+HINDUNILVR,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ICICIBANK,PRO,Strong 5-year revenue growth (> 15% CAGR),90.0
+ICICIBANK,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+ICICIBANK,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+ICICIBANK,PRO,High earnings quality: Cash from Operations exceeds Net Profit,90.0
+ICICIBANK,PRO,Consistent EPS growth (> 12% CAGR),90.0
+ICICIBANK,CON,High leverage: Debt to Equity > 2.0x,90.0
+ICICIBANK,CON,"Poor interest coverage ratio (< 1.5x), potential debt servicing risk",90.0
+ICICIBANK,CON,Operating profit margins are on a declining trend YoY,90.0
+ICICIBANK,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+ICICIBANK,CON,High capital expenditure intensity (> 15% of sales) eating into returns,90.0
+ICICIBANK,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ICICIGI,PRO,Company is debt-free,90.0
+ICICIGI,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ICICIPRULI,PRO,Company is debt-free,90.0
+ICICIPRULI,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+INDIGO,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+INDUSINDBK,PRO,Strong 5-year revenue growth (> 15% CAGR),90.0
+INDUSINDBK,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+INDUSINDBK,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+INDUSINDBK,PRO,Consistent EPS growth (> 12% CAGR),90.0
+INDUSINDBK,CON,High leverage: Debt to Equity > 2.0x,90.0
+INDUSINDBK,CON,Accrual risk: Cash from Operations is less than 50% of Net Profit,90.0
+INDUSINDBK,CON,Operating profit margins are on a declining trend YoY,90.0
+INDUSINDBK,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+INDUSINDBK,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+INFY,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+IOC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+IRCTC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+IRFC,CON,High leverage: Debt to Equity > 2.0x,90.0
+IRFC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ITC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+JINDALSTEL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+JIOFIN,PRO,Company is debt-free,90.0
+JIOFIN,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+JSWENERGY,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+JSWSTEEL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+KOTAKBANK,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+KOTAKBANK,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+KOTAKBANK,PRO,Consistent EPS growth (> 12% CAGR),90.0
+KOTAKBANK,CON,High leverage: Debt to Equity > 2.0x,90.0
+KOTAKBANK,CON,"Poor interest coverage ratio (< 1.5x), potential debt servicing risk",90.0
+KOTAKBANK,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+KOTAKBANK,CON,High capital expenditure intensity (> 15% of sales) eating into returns,90.0
+KOTAKBANK,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+LICI,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+LODHA,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+LT,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+LTIM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+M&M,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+MARUTI,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+MOTHERSON,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+NAUKRI,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+NESTLEIND,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+NHPC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+NTPC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+ONGC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+PFC,CON,High leverage: Debt to Equity > 2.0x,90.0
+PFC,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+PIDILITIND,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+PNB,PRO,High latest return on equity (ROE > 20%),90.0
+PNB,PRO,High latest return on capital employed (ROCE > 20%),90.0
+PNB,PRO,Strong 5-year revenue growth (> 15% CAGR),90.0
+PNB,CON,High leverage: Debt to Equity > 2.0x,90.0
+PNB,CON,"Poor interest coverage ratio (< 1.5x), potential debt servicing risk",90.0
+PNB,CON,Accrual risk: Cash from Operations is less than 50% of Net Profit,90.0
+PNB,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+PNB,CON,Distress cash flow pattern: operating cash burn funded by financing inflows,90.0
+POWERGRID,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+RECLTD,CON,High leverage: Debt to Equity > 2.0x,90.0
+RECLTD,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+RELIANCE,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+SBILIFE,PRO,Company is debt-free,90.0
+SBILIFE,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+SBIN,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+SBIN,PRO,High net profit margin (> 15%) indicating pricing power,90.0
+SBIN,PRO,Generous shareholder returns: returning cash to shareholders via dividends/buybacks,90.0
+SBIN,PRO,Consistent EPS growth (> 12% CAGR),90.0
+SBIN,CON,"Poor interest coverage ratio (< 1.5x), potential debt servicing risk",90.0
+SBIN,CON,Accrual risk: Cash from Operations is less than 50% of Net Profit,90.0
+SBIN,CON,Poor cash conversion: FCF/EBITDA < 30%,90.0
+SHREECEM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+SHRIRAMFIN,CON,High leverage: Debt to Equity > 2.0x,90.0
+SHRIRAMFIN,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+SIEMENS,PRO,Strong 5-year net profit growth (> 15% CAGR),90.0
+SIEMENS,PRO,Healthy interest coverage ratio (> 5x),90.0
+SIEMENS,PRO,Consistent positive Free Cash Flow generation over last 3 years,90.0
+SIEMENS,PRO,Generous shareholder returns: returning cash to shareholders via dividends/buybacks,90.0
+SIEMENS,PRO,Consistent EPS growth (> 12% CAGR),90.0
+SUNPHARMA,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TATACONSUM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TATAMOTORS,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TATAPOWER,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TATASTEEL,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TCS,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TECHM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TITAN,CON,High leverage: Debt to Equity > 2.0x,90.0
+TITAN,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TORNTPHARM,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TRENT,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0
+TVSMOTOR,CON,"Low asset turnover (< 0.5x), indicating poor asset utilisation efficiency",90.0

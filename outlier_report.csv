@@ -1,0 +1,3 @@
+company_id,broad_sector,metric,value,sector_mean,sector_std,z_score
+SIEMENS,Industrials,free_cash_flow_cr,1168.0,116.8,369.35,2.85
+ADANIGREEN,Energy,debt_to_equity,6.375756429652042,1.33,1.54,3.29
