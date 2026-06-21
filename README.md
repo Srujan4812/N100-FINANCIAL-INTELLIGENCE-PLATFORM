@@ -1,5 +1,9 @@
 # Nifty 100 Financial Intelligence Platform
 
+> 🔴 **Live Deployments:**
+> - 📊 **Streamlit Dashboard**: [https://nifty100-dashboard-9y7s.onrender.com/](https://nifty100-dashboard-9y7s.onrender.com/)
+> - 🔌 **FastAPI Backend / Swagger Docs**: [https://nifty100-api-6u65.onrender.com/docs](https://nifty100-api-6u65.onrender.com/docs)
+
 A self-contained, production-grade fundamental research workspace enabling analysts to query, screen, score, and compare constituent companies of the Nifty 100 index. Built on a local SQLite storage model, statistical engine, FastAPI endpoints, and a multi-page interactive Streamlit dashboard.
 
 ---
