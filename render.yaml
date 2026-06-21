@@ -2,6 +2,7 @@ services:
   - type: web
     name: nifty100-api
     env: python
+    plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "uvicorn src.api.main:app --host 0.0.0.0 --port $PORT"
     envVars:
@@ -11,6 +12,7 @@ services:
   - type: web
     name: nifty100-dashboard
     env: python
+    plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "streamlit run src/dashboard/app.py --server.port $PORT --server.address 0.0.0.0"
     envVars:
